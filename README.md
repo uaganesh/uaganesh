@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uaganesh&theme=dark)](https://git.io/streak-stats)
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="uaganesh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/uaganesh?trk=profile-badge">U A Ganesh</a></div>
+**<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="uaganesh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/uaganesh?trk=profile-badge">U A Ganesh</a></div>**
               
 
 
