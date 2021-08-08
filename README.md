@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
+<h3 align="center">A passionate web developer from India</h3>
 
-- 👀 I’m interested in web development
-- 🌱 I’m currently working on a project for our startup
+- 🔭 I’m currently working on **Admisssion Management System**
+
+- 🌱 I’m currently learning **Web Development in Python**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **contact@uaganesh.com**
 
 
 <!---
