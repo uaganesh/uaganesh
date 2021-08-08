@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uaganesh&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-### Languages and Tools:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uaganesh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
