@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 ![Ganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=uaganesh&show_icons=true&theme=chartreuse-dark)
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uaganesh&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=uaganesh&langs_count=5&theme=chartreuse-dark)]()
 
