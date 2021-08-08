@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uaganesh
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on a project for our startup
-- 
+
 
 <!---
 uaganesh/uaganesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
