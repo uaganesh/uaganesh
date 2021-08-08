@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uaganesh&repo=fastagmodel&theme=chartreuse-dark)](https://github.com/uaganesh/fastagmodel)
 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 <h3 align="left">Languages and Tools:</h3>
