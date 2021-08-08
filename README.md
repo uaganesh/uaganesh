@@ -10,12 +10,12 @@ You can click the Preview link to take a look at your changes.
 ![Ganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=uaganesh&show_icons=true&theme=chartreuse-dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uaganesh&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uaganesh&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3><u>Recent Projects</u></h3>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uaganesh&repo=fastagmodel&theme=react)](https://github.com/uaganesh/fastagmodel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uaganesh&repo=fastagmodel&theme=chartreuse-dark)](https://github.com/uaganesh/fastagmodel)
 
 
 
