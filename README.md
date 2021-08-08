@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @uaganesh
+<h1 align="center">Hi 👋, I'm Ganesh</h1>
+
 - 👀 I’m interested in web development
 - 🌱 I’m currently working on a project for our startup
 
