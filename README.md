@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **Admisssion Management System**
+- 🔭 I’m currently working on **Sentimental Analysis**
 
 - 🌱 I’m currently learning **Web Development in Python**
 
