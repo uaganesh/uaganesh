@@ -1,19 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">Full Stack Developer (Node.js)</h3>
 
-- 🔭 I’m currently working on **Sentimental Analysis**
-
-- 🌱 I’m currently learning **Web Development in Python**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **contact@uaganesh.com**
-
-
-<!---
-uaganesh/uaganesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![Ganesh GitHub stats](https://github-readme-stats.vercel.app/api?username=uaganesh&show_icons=true&theme=dark)
 
 
