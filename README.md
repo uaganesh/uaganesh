@@ -9,6 +9,7 @@
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uaganesh&repo=fastagmodel&theme=dark)](https://github.com/uaganesh/fastagmodel)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uaganesh&repo=cakeshop-management&theme=dark)](https://github.com/uaganesh/cakeshop-management)
 
 
 
